@@ -16,10 +16,10 @@ If you haven't created a uv-managed project yet, create one:
 ```bash
 uv init mcp-server-demo
 cd mcp-server-demo
-
+bash```
 
 Then add MCP to your project dependencies:
-bash
+
 uv add "mcp[cli]"
 
 Alternatively, for projects using pip for dependencies:

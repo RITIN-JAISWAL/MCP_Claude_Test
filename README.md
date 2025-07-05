@@ -13,7 +13,7 @@ Adding MCP to your python project
 We recommend using uv to manage your Python projects.
 
 If you haven't created a uv-managed project yet, create one:
-bash
+```bash
 uv init mcp-server-demo
 cd mcp-server-demo
 
